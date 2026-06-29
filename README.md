@@ -33,7 +33,7 @@
   </tr>
   <tr>
     <td align="left"><b>Last Update</b></td>
-    <td align="center">29 June 2026</td>
+    <td align="center">30 June 2026</td>
   </tr>
   <tr>
     <td align="left"><b>Visitors</b></td>
