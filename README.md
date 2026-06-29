@@ -1,6 +1,5 @@
 <div align="center">
-  <img width="100" height="100" alt="Picsart_26-05-06_09-13-21-341" src="https://i.ibb.co.com/LdnvhRTC/Picsart-26-05-06-09-13-21-341.png" />
-
+  <img src="Picsart_26-05-06_09-13-21-341.png" width="120" alt="MovieBox Logo">
   
   <h2>What is MovieBox Mod?</h2>
   <p>MovieBox Mod is a modified version of MovieBox that unlocks premium features and provides an ad-free experience. It allows users to stream and download a vast library of movies, TV shows, anime, and live content in high quality, with additional features and enhancements.</p>
@@ -20,12 +19,16 @@
     <th align="center" width="50%">MovieBox Premium</th>
   </tr>
   <tr>
-    <td align="left"><b>App Version</b></td>
+    <td align="left"><b>App version</b></td>
     <td align="center">3.0.16.0616.03</td>
   </tr>
   <tr>
     <td align="left"><b>Requirement</b></td>
     <td align="center">5.0 and above</td>
+  </tr>
+  <tr>
+    <td align="left"><b>Mod By</b></td>
+    <td align="center"><a href="https://t.me/dulquersalmaan22">Dulquer Salmaan</a></td>
   </tr>
   <tr>
     <td align="left"><b>Size</b></td>
@@ -36,38 +39,31 @@
     <td align="center">Entertainment</td>
   </tr>
   <tr>
+    <td align="left"><b>Visitors</b></td>
+    <td align="center">
+        <img src="https://api.visitorbadge.io/api/visitors?path=dulquersalmaan22/MovieBox-Mod&label=Visitors&labelColor=blue&countColor=%23555555&style=flat" alt="Visitors"/>
+    </td>
+</tr>
+  <tr>
     <td align="left"><b>Last Update</b></td>
     <td align="center">29 June 2026</td>
   </tr>
+  <tr>
+    <td align="left"><b>Number of Downloads</b></td>
+    <td align="center">
+        <img src="https://img.shields.io/github/downloads/dulquersalmaan22/MovieBox-Mod/total?color=blue&style=for-the-badge&label=" alt="Live Downloads">
+    </td>
+</tr>
   <tr>
     <td align="left"><b>Price</b></td>
     <td align="center">Free</td>
   </tr>
   <tr>
-    <td align="left"><b>Visitors</b></td>
-    <td align="center">
-      <img src="https://api.visitorbadge.io/api/visitors?path=dulquersalmaan22/MovieBox-Mod&label=Visitors&labelColor=blue&countColor=%23555555&style=flat" alt="Visitors"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="left"><b>Number of Downloads</b></td>
-    <td align="center">
-      <img src="https://img.shields.io/github/downloads/dulquersalmaan22/MovieBox-Mod/total?color=blue&style=for-the-badge&label=" alt="Live Downloads">
-    </td>
-  </tr>
-  <tr>
-    <td align="left"><b>Mod By</b></td>
-    <td align="center">
-      <a href="https://t.me/dulquersalmaan22">Dulquer Salmaan</a>
-    </td>
-  </tr>
-  <tr>
     <td colspan="2" align="center">
       <br>
-     <img src="https://i.ibb.co.com/4gPcTNYw/Screenshot-20260507-000411.jpg" width="48%">
-     <img src="https://i.ibb.co.com/q3B86pYH/Screenshot-20260507-000620.jpg" width="48%"> 
-
-</td>
+      <img src="Screenshot_2026-06-29-22-19-17-042_com.community.oneroom.jpg" width="48%">
+      <img src="Screenshot_2026-06-29-22-19-02-902_com.community.oneroom.jpg" width="48%">
+    </td>
   </tr>
 </table>
 
