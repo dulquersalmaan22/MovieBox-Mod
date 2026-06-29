@@ -6,9 +6,6 @@
 
 <p><b> Mod Features: Premium Unlocked, No Ads, Auto Login, 1080p+ Streaming & Downloads, Extra Features</b></p>
   
-  <p>
-    If you find this project useful, consider joining our Telegram community for the latest updates, announcements, and support.
-  </p>
 </div>
 
 <br>
@@ -45,7 +42,7 @@
     </td>
   </tr>
   <tr>
-    <td align="left"><b>Number of Downloads</b></td>
+    <td align="left"><b>Total Downloads</b></td>
     <td align="center">
       <img src="https://img.shields.io/github/downloads/dulquersalmaan22/MovieBox-Mod/total?color=blue&style=for-the-badge&label=" alt="Live Downloads">
     </td>
