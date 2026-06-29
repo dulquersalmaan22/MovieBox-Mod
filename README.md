@@ -39,10 +39,6 @@
     <td align="center">29 June 2026</td>
   </tr>
   <tr>
-    <td align="left"><b>Price</b></td>
-    <td align="center">Free</td>
-  </tr>
-  <tr>
     <td align="left"><b>Visitors</b></td>
     <td align="center">
       <img src="https://api.visitorbadge.io/api/visitors?path=dulquersalmaan22/MovieBox-Mod&label=Visitors&labelColor=blue&countColor=%23555555&style=flat" alt="Visitors"/>
