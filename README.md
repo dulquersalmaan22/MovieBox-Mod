@@ -4,7 +4,7 @@
   <h2>What is MovieBox Mod?</h2>
   <p>MovieBox is a popular third-party streaming application for Android, Windows, and Firestick that allows users to watch and download a vast library of movies, TV series, anime, and live content.</p>
 
-<p><b> Mod features:Premium Unlocked,1080p+ streaming and download,No ads and many more features</b></p>
+<p><b> Mod features:Premium Unlocked,1080p+ streaming and download,No ads</b></p>
   
   <p>
     If you find this project useful, please consider giving this repository a star (⭐).
@@ -40,16 +40,20 @@
   </tr>
   <tr>
     <td align="left"><b>Visitors</b></td>
-    <td align="center"><img src="https://api.visitorbadge.io/api/visitors?path=msrofficial/Moviebox-Mod&label=Visitors&labelColor=blue&countColor=%23555555&style=flat" alt="Visitors"/></td>
-  </tr>
+    <td align="center">
+        <img src="https://api.visitorbadge.io/api/visitors?path=dulquersalmaan22/MovieBox-Mod&label=Visitors&labelColor=blue&countColor=%23555555&style=flat" alt="Visitors"/>
+    </td>
+</tr>
   <tr>
     <td align="left"><b>Last Update</b></td>
     <td align="center">29 June 2026</td>
   </tr>
   <tr>
     <td align="left"><b>Number of Downloads</b></td>
-    <td align="center"><img src="https://img.shields.io/github/downloads/msrofficial/Moviebox-Mod/total?color=blue&style=for-the-badge&label=" alt="Live Downloads"></td>
-  </tr>
+    <td align="center">
+        <img src="https://img.shields.io/github/downloads/dulquersalmaan22/MovieBox-Mod/total?color=blue&style=for-the-badge&label=" alt="Live Downloads">
+    </td>
+</tr>
   <tr>
     <td align="left"><b>Price</b></td>
     <td align="center">Free</td>
