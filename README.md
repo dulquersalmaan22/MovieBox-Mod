@@ -69,7 +69,7 @@
 
 <div align="center">
   <br>
-  <a href="https://github.com/msrofficial/Moviebox-Mod/releases/download/3.0.15.0429.05/MovieBox_Premium.By.MSRPatcH.3.0.15.0429.05.apk">
+  <a href="https://github.com/dulquersalmaan22/MovieBox-Mod/releases/tag/v3.0.16.0616.03/MovieBox-Premium-v3.0.16.0616.03-@CollectionByCharlie.apk">
     <img src="https://img.shields.io/badge/Download_MovieBox _Mod_Apk-2EA043?style=for-the-badge&logo=android&logoColor=white" alt="Download MovieBox Mod Apk">
   </a>
   <br><br>
