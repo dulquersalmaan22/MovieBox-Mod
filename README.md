@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Picsart_26-05-06_09-13-21-341.png" width="120" alt="MovieBox Logo">
+  <img width="100" height="100" alt="Picsart_26-05-06_09-13-21-341" src="https://i.ibb.co.com/LdnvhRTC/Picsart-26-05-06-09-13-21-341.png" />
   
   <h2>What is MovieBox Mod?</h2>
   <p>MovieBox Mod is a modified version of MovieBox that unlocks premium features and provides an ad-free experience. It allows users to stream and download a vast library of movies, TV shows, anime, and live content in high quality, with additional features and enhancements.</p>
@@ -61,8 +61,8 @@
   <tr>
     <td colspan="2" align="center">
       <br>
-      <img src="Screenshot_2026-06-29-22-19-17-042_com.community.oneroom.jpg" width="48%">
-      <img src="Screenshot_2026-06-29-22-19-02-902_com.community.oneroom.jpg" width="48%">
+      <img src="Screenshot_2026-06-29-22-38-45-990_com.community.oneroom.jpg" width="48%">
+      <img src="Screenshot_2026-06-29-22-38-00-128_com.community.oneroom.jpg" width="48%">
     </td>
   </tr>
 </table>
