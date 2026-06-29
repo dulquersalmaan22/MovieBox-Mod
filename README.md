@@ -4,7 +4,7 @@
   <h2>What is MovieBox Mod?</h2>
   <p>MovieBox Mod is a modified version of MovieBox that unlocks premium features and provides an ad-free experience. It allows users to stream and download a vast library of movies, TV shows, anime, and live content in high quality, with additional features and enhancements.</p>
 
-<p><b> Mod Features: Premium Unlocked, No Ads, 1080p+ Streaming & Downloads, Auto Login Extra Features</b></p>
+<p><b> Mod Features: Premium Unlocked, No Ads, Auto Login, 1080p+ Streaming & Downloads, Extra Features</b></p>
   
   <p>
     If you find this project useful, consider joining our Telegram community for the latest updates, announcements, and support.
