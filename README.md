@@ -64,9 +64,10 @@
   <tr>
     <td colspan="2" align="center">
       <br>
-     <img width="300" alt="Screenshot_20260507-000411" src="https://i.ibb.co.com/4gPcTNYw/Screenshot-20260507-000411.jpg" />
-      &nbsp;&nbsp;&nbsp;&nbsp;
-     <img width="300" alt="Screenshot_20260507-000620" src="https://i.ibb.co.com/q3B86pYH/Screenshot-20260507-000620.jpg" />
+     <img src="https://i.ibb.co.com/4gPcTNYw/Screenshot-20260507-000411.jpg" width="48%">
+     <img src="https://i.ibb.co.com/q3B86pYH/Screenshot-20260507-000620.jpg" width="48%"> 
+
+</td>
   </tr>
 </table>
 
