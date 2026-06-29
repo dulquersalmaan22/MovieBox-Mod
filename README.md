@@ -63,14 +63,9 @@
   <tr>
   <td colspan="2" align="center">
     <br>
-
-    <!-- Top 2 screenshots -->
     <img src="Screenshot_2026-06-29-22-39-44-961_com.community.oneroom.jpg" width="48%">
     <img src="Screenshot_2026-06-29-22-39-50-829_com.community.oneroom.jpg" width="48%">
-
     <br><br>
-
-    <!-- Bottom 2 screenshots -->
     <img src="Screenshot_2026-06-29-22-38-45-990_com.community.oneroom.jpg" width="48%">
     <img src="Screenshot_2026-06-29-22-38-00-128_com.community.oneroom.jpg" width="48%">
   </td>
