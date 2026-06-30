@@ -76,7 +76,7 @@
 
 <div align="center">
 
-| 💬 Support Group | 📢 Official Channel |
+| 💬 Support Group | 📢 Update Channel |
 | :---: | :---: |
 | [![Support Group](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@charlieBotUsers&style=for-the-badge&label=Support%20Group&color=EC4899)](https://t.me/charlieBotUsers) | [![Official Channel](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@CollectionByCharlie&style=for-the-badge&label=Official%20Channel&color=8B5CF6)](https://t.me/CollectionByCharlie) |
 
